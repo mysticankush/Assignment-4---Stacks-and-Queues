@@ -1,5 +1,5 @@
 /*  Program for converting an arithmetic expression from infix to postfix
- * Compilation : gcc problem1.c
+ * Compilation : gcc problem2.c
  * Execution : ./a.out
  *
  * Ankush Chhabra 1910990144 15-08-2021
